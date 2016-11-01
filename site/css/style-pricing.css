@@ -289,10 +289,7 @@ a {
   }
 }
 .pricing-header h2 {
-  padding: 0 0 0.6em 0;
   font-weight: 400;
-  margin-bottom: 30px;
-  margin-top: 10px;
   text-transform: uppercase;
   text-align: center;
 }
@@ -319,9 +316,7 @@ a {
   font-size: 24px;
   color: #344861;
 }
-hr {
-  margin-bottom: 10px;
-}
+
 .pricing-header {
   height: auto;
   padding: 1.9em 0 1.6em;
@@ -329,6 +324,10 @@ hr {
   text-align: center;
   color: #173d50;
   background-color: transparent;
+}
+
+.negative-pad {
+  padding:1em 0 0 0;
 }
 .exclusive .pricing-header {
   color: #19a9e5;
@@ -338,9 +337,7 @@ hr {
   font-size: 2.8rem;
   letter-spacing: 2px;
 }
-.pricing-title {
-  margin-top: 2em;
-}
+
 .currency, .value {
   font-size: 3rem;
   font-weight: 300;
@@ -422,6 +419,7 @@ hr {
 .exclusive .pricing-features li {
   margin: 0 3px;
 }
+
 .pricing-features em {
   display: inline-block;
   margin-bottom: 0;
