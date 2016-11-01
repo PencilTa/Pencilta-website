@@ -1,0 +1,32 @@
+@media (max-width: 2400px) and (min-width: 996px) {
+		.section-one .chart {
+			margin-left: 100px;
+			height: 300px;
+			width: 300px;
+}
+}
+@media (max-width: 1280px) {
+		.header .card {
+			margin-top: 100px;
+		}
+}
+@media (max-width: 1200px) {
+		.header .card {
+			margin-top: 100px;
+		}
+}
+@media (max-width: 992px) {
+	.footer {
+		height: 150px;
+	}
+	.chart {
+		margin-top: 50px;
+		margin-bottom: 2em;
+	}
+}
+@media (max-width:992px) and (min-width: 700px) {
+.chart {
+		margin-top: 50px;
+		margin-left:10px;
+	}
+}

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Bank Accounts Made Easy.</title>
+    <description>We’re on a mission to enable businesses to do more.
+ That’s why we’re building Penta: a cost-efficient, fast and simple bank enabling your business to do more, spend less and make smarter data driven decisions.
+</description>
+    <link>http://getpenta.com/blog/</link>
+    <atom:link href="http://getpenta.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Oct 2016 18:30:05 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2016 18:30:05 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>How to destroy your startup in 15 easy steps</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/assets/img/post1.jpeg&quot; /&gt;
+&lt;em&gt;Photo: Nick Schumacher/Unsplash&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I raised $500,000 at 19. I was on my way to change the world. Three years later everything burned down.&lt;/p&gt;
+
+&lt;p&gt;This post is not about how to shoot for the stars or run a company. Others are better at that.&lt;/p&gt;
+
+&lt;p&gt;This is about what not to do.&lt;/p&gt;
+
+&lt;p&gt;I’ve made every mistake possible. But ironically, I’m constantly meeting teams doing the exact same things that caused my first startup to implode. Everything I’m writing about I’ve experienced first hand through my own startups as well as various businesses I’ve been involved in. It’s been all my fault and this is my story.&lt;/p&gt;
+
+&lt;p&gt;Some of you will disagree with me. Others will have things to add. I’m happy to discuss in the comments.&lt;/p&gt;
+
+&lt;p&gt;Here’s my attempt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ZUCKERBERG SYNDROM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My girlfriend didn’t know what I was working on for nine months. I slept with a chair blocking the front door. My phone was tapped. Corporate America and Uncle Sam were listening. Someone was going to kill me to steal the idea.&lt;/p&gt;
+
+&lt;p&gt;I really believed this. So I did everything possible (literally) to avoid getting feedback out of the fear of having our idea stolen.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, secrecy and stupidity killed us. Three years and hundreds of thousands later, we released an alpha version to a modest 30 people for the first time. Everyone hated it. Our capital was gone. Our moral: zero.&lt;/p&gt;
+
+&lt;p&gt;I see this all the time. Startup founders hiding their ideas because of the fear that someone will steal it. Remember: no one cares about you. Your biggest issue is getting discovered. If someone steals your idea, that means you’re doing something right.&lt;/p&gt;
+
+&lt;p&gt;Because of this syndrome, most startups are wasting their time and money building products no one wants. Why? Lack of testing. The biggest mistake a company can make (product wise) is to avoid talking to and testing with potential and current users. Every day. It’s also one of the main reasons startup’s fail.&lt;/p&gt;
+
+&lt;p&gt;If you’re not constantly releasing and looking for feedback you’re either a) delusional (me) thinking too many people will sign up/buy your product and you won’t be able to scale b) scared that it’s not good enough (me) or c) someone will steal your idea (as I was).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A. SCALING&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Your priority, in short, is proving that people will use your product at all. If they won’t, then it won’t matter if you can’t scale. If they will, then you will figure out a way to scale. I’ve never seen a startup die because it couldn’t scale fast enough. I’ve seen hundreds of startups die because people refused to embrace their product.” — &lt;a href=&quot;http://guykawasaki.com/how-to-launch-and-why-scaling-doesnt-matter/&quot;&gt;Guy Kawasaki&lt;/a&gt; [Emphasis mine]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve done this and I’ve experienced this in the past three startups I’ve worked in. It’s completely delusional. If five out of five people tell you that they wouldn’t use your product (before you build), quit. If eight out of ten people tell you that they hate this feature and you empirically see that they’re not using it, kill it. Don’t assume. Always be testing.&lt;/p&gt;
+
+&lt;p&gt;More on feedback below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;b. TESTING&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;See point A.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C. STEALING(!)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No one will steal your idea. It takes time, money, skills and immorality to steal. Not everyone is born that lucky.&lt;/p&gt;
+
+&lt;p&gt;Most importantly, no one cares about your idea.&lt;/p&gt;
+
+&lt;p&gt;They’ll only start caring when there’s a massive amount of initial traction (50,000+ users). By then, you’ve already established a strong user/customer base and it’s too late for the others.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HIRING FOR WEAKNESS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Only hire for a strength that needs to be filled in your company. Never for a weakness.&lt;/p&gt;
+
+&lt;p&gt;Not once did any of the startups I worked in hire for a strength. I repetitively recommended hiring people purely out of loneliness, fear and scarcity repetitively. Each time it sunk us deeper.&lt;/p&gt;
+
+&lt;p&gt;But what does that mean?&lt;/p&gt;
+
+&lt;p&gt;Hiring for a weakness means that you attempt to fill a weakness in the fundamentals in your company by hiring for a weakness. Example: If you’re building a product and it’s not gaining traction and your company doesn’t have inherent fundamentals, hiring Ryan Holiday to sell your product won’t help. You can’t fight weakness with weakness.&lt;/p&gt;
+
+&lt;p&gt;However, if you have a rockstar engineering team and you want to add a marketing person to help take the product get to another level, then you’re adding a strength.&lt;/p&gt;
+
+&lt;p&gt;Hiring for weakness also means:&lt;/p&gt;
+
+&lt;p&gt;a. You hire a B+ player instead of a A+ player.&lt;/p&gt;
+
+&lt;p&gt;b. You hire people so that they go through the struggle with you, so that they share your fears and paranoia. Not so they execute on what’s needed.&lt;/p&gt;
+
+&lt;p&gt;c. Hiring someone to fill a position. Not to compliment the rest of the company.&lt;/p&gt;
+
+&lt;p&gt;d. Hiring someone and not having any idea of what the hell you want them to do.&lt;/p&gt;
+
+&lt;p&gt;e. It means hiring someone because you think there’s no one else. Scarcity.&lt;/p&gt;
+
+&lt;p&gt;f. Hiring a client’s friend. Because you’re scared.&lt;/p&gt;
+
+&lt;p&gt;It’s ultimately about the fundamentals. If the fundamentals of the product and the team aren’t there, adding someone is just adding a weakness. It won’t help, because it’s not a strength.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PAINTER’S DILEMMA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Approving emails? One week treks. Our first wireframes? $40K and four months. Did we have a working product after all this? No. We failed.&lt;/p&gt;
+
+&lt;p&gt;The Painter’s Dilemma is when you’re so deep in the details of your project that you don’t even know what the idea is anymore. You’re blind. When you’re too deep you need help.&lt;/p&gt;
+
+&lt;p&gt;How to solve it? Stop. Talk to people. Get feedback. Iterate and build. Release. Breathe.&lt;/p&gt;
+
+&lt;p&gt;Repeat the loop.&lt;/p&gt;
+
+&lt;p&gt;The more feedback you get the healthier you and your product are.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FEEDBACK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I can’t emphasize this enough. If you don’t get feedback (everyday) you will die. I never got feedback. EVER. Well, until the cash ran out. Oops.&lt;/p&gt;
+
+&lt;p&gt;If you’re not getting qualitiative and quantitive feedback/data everyday, the cancer will start.&lt;/p&gt;
+
+&lt;p&gt;It’s easy: speak to people, Google Analytics, send surveys. Just don’t hide from it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is the crucial and worth a dedicated blog post in the future.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;COMMUNICATE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“Don’t talk to him, he doesn’t understand. He’s out of the picture next funding round anyways.” I hid everything internally. It was easy, we were in 5 different countries! Our developers were remote (I’ll get to that) and Basecamp was our only means of communication. In other startups, I wouldn’t included people from discussions because “it isn’t necessary. That isn’t their job”&lt;/p&gt;
+
+&lt;p&gt;New features, awful designs, conniving plans were all pushed through a funnel. I was the leader of the deceiving. Architecting a blue print to push my own delusional “never test and succeed” agenda. My style? The longer the email the less likely someone important will read it. What a strategy. As always, the CEO is the biggest idiot.&lt;/p&gt;
+
+&lt;p&gt;I don’t care if you’re a church, a tech startup or a non-profit. If you don’t have a system of communication in place that keeps everyone aware of what everyone is doing in the company, in real-time, for every milestone, everyday, you will die very soon.&lt;/p&gt;
+
+&lt;p&gt;Lesson: Live and breath Scrum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SCREW LAWYERS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lawyers are criminals.&lt;/p&gt;
+
+&lt;p&gt;I spent $15,000 on legal documents/fees we never used. Every entrepreneur/startup I’m involved with thinks lawyers are the first step to success. Bullshit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DOCS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All the legal documents you ever need are available online. If you’re B2B, all companies that you’ll work with have their own standard LOEs, NDAs, etc., that they anyways steal from Fortune 500 companies. Request it. Then use it. B2C? Here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BUT I NEED A TRADEMARK!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unless you have 10,000 clients you don’t need to think about copyright or even the name. Prove the concept first. Worry later. If you do have to worry, those are very nice worries to have.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PATENT IT!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Patenting something that isn’t validated with at least 10,000 clients is moronic. Ironically, this is the only mistake my first startup didn’t follow through with (fully, at least).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DECISION MAKING&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was traumatized from taking decisions. Most startups never take decisions. In other statups I work in, decisions took weeks. People join startups for the reason of avoiding bureaucracy but everyone still does it. Why? Lack of trust and overview of the team, so they choke the process (have I suggested Scrum?).&lt;/p&gt;
+
+&lt;p&gt;The board should decide on the vision and the group should decide what to execute on by creating a backlog for the week. The team should then have the power to execute it. With a great communication process in place, teammates should be able to take decisions without reporting to anyone while keeping everyone updated with everything’s that going on, live. Have a flat structure to achieve this by using Scrum.&lt;/p&gt;
+
+&lt;p&gt;Let people do their jobs. Trust them. Don’t have a tedious review process as most startups do. Don’t suffocate the system. Empower your people.&lt;/p&gt;
+
+&lt;p&gt;Read Scrum by Jeff Sutherland on how to manage your team. Then read Team of Teams by General Stanley McChrystal for how to organize the information flow. Both books compliment each other perfectly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THE BOARD&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The ideal board is 3–5 people maximum if you’re a startup. Anything above that means that either no decisions will ever be taken (my first company) or someone has a hidden agenda and profits from a discombobulated board.&lt;/p&gt;
+
+&lt;p&gt;A business is not a democracy. Unanimous decisions don’t work and will never work.&lt;/p&gt;
+
+&lt;p&gt;Who’s should I put on the Board?&lt;/p&gt;
+
+&lt;p&gt;Only investors/shareholders who hold a large stake and are extremely active in the success of your venture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INVESTORS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Smart Money vs Still Money&lt;/p&gt;
+
+&lt;p&gt;Just because someone is offering you cash almost always means youshouldn’t accept it.&lt;/p&gt;
+
+&lt;p&gt;Your investor can have the greatest contacts in the pharmecutical industry. She can be CEO of Merck. If she doesn’t have a massive network in whatever industry you’re in, it’s worthless. The money will be worth nothing. This is true 100% of the time.&lt;/p&gt;
+
+&lt;p&gt;Always onboard investors that can help you in your niche industry.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MEETINGS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my top 3 favorites. Most won’t agree with me on this.&lt;/p&gt;
+
+&lt;p&gt;I’ve never been to a meeting that has made me money/funded my venture. I don’t think anyone has. Has anyone ever handed you a check at a meeting? I doubt it. Today, it usually happens by wire-transfer.&lt;/p&gt;
+
+&lt;p&gt;Meetings are pointless. Every team I meet, consult for/work with all think that going to meetings is the most crucial part of business. Most importantly, the whole team should be there. Pick up the fucking phone. Travel is time and money expensive. Even if you’re taking a cab.&lt;/p&gt;
+
+&lt;p&gt;I would fly 10,000 miles for a 3 hour meeting and then fly back to Europe that same day. $30K. Gone.&lt;/p&gt;
+
+&lt;p&gt;Most of the discussion can be ironed out over email and FaceTime.&lt;/p&gt;
+
+&lt;p&gt;Ok yes, I agree. Meeting in person is important. But not until it’s necessary. Most of the time, it’s unecessary. And even when it is, it shouldn’t always be an excuse to leave work for a business lunch or to Shanghai for the day.&lt;/p&gt;
+
+&lt;p&gt;Avoid meetings. Get more done.&lt;/p&gt;
+
+&lt;p&gt;It’s a waste of time 99% of the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FOUNDING PARTNERS = YOUR SPOUSE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You will be married to your partners and investors for the next 7–10 years. Choose wisely.&lt;/p&gt;
+
+&lt;p&gt;Know your team. Speak to your investor’s enemies. Get references for everyone.&lt;/p&gt;
+
+&lt;p&gt;Don’t be a deceiver. Use Scrum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WORKING HOURS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We worked 16 hour days. Yey! Startup life!&lt;/p&gt;
+
+&lt;p&gt;No. Work 8–10 hours and you’ll get more done than working 18 hours a day. Don’t believe me. It’s proven.&lt;/p&gt;
+
+&lt;p&gt;Working 18 hour days leads to a burn out, which leads to painter’s dilemma, then delusion, then deceiving others around you, then depression. Then it’s too late.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the more you work the more mistakes you’re prone to make. Mistakes made are mistakes that need to be corrected. Mistakes that aren’t correct can take up to 24x longer to correct than if they were corrected immediately.&lt;/p&gt;
+
+&lt;p&gt;But you can’t see that. You’re burned out. You’re in Painter.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PRODUCT / MARKET VALIDATION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Another reason I refused to test in the three product startups I was involved in was because “the ideas work successfully elsewhere. They will also work here.” Doesn’t work like that.&lt;/p&gt;
+
+&lt;p&gt;Just because you’re making a mishmash of several products that have product/market validation elsewhere doesn’t mean people are willing to useyour product. I have yet to meet a new founder who hasn’t claimed this.&lt;/p&gt;
+
+&lt;p&gt;In order for someone to switch to your product, your product needs to be at least 8x better.*&lt;/p&gt;
+
+&lt;p&gt;Is your product really 8x better than your biggest competitor? If the answer isn’t a clear yes, quit.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Read Hooked by Nir Eyal and Ryan Hoover for how to build habit forming products.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RECREATING THE WHEEL&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“God gave you eyes, so plagarize.” —Michael Lewis&lt;/p&gt;
+
+&lt;p&gt;No need to re-create the wheel. Everything is out there already for a reason. Use APIs, read books (many books), steal functions, designs, ideas, marketing slogans, branding, on boarding processes, software, colors, clients, everything from other people/companies who are successful.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t mean that you shouldn’t test it in your own environment. You must validate every single function that you put out there. Use the Lean Startup Kansan by Ash Maurya for this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DILUTION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We gave away 51% for our first funding round. How much did we plan to keep when we “exited?” Think about that. It doesn’t make sense.&lt;/p&gt;
+
+&lt;p&gt;Startups do this all the time. If you retain 51% after the seed round, how much does the founding team plan to keep by Series B? 20%? If you take the average of what you got paid for equity after the exit + your salary you’ll be paying more in taxes with a minimum wage paycheck for the past 8 years it took you to exit. Might as well work in a shoe store.&lt;/p&gt;
+
+&lt;p&gt;If you don’t have the bargaining power (a validated product) to raise money with, quit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GUYS IN SUITS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our tech partners wore suits. That made us comfortable. They ended up quoting $100k. We ended up with nothing.&lt;/p&gt;
+
+&lt;p&gt;If you see tech people in suits, run.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OUTSOURCING&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I lost well over $100,000 for our first version that was outsourced. We were smart enough to not learn from our mistakes so we found another team to outsource with. Another hefty sum gone. Only myself to blame.&lt;/p&gt;
+
+&lt;p&gt;I’ve had terrible experiences with outsourcing and great experiences with in-house development.&lt;/p&gt;
+
+&lt;p&gt;However, many products (we all use everyday) have found great success in outsourcing. I also know many entrepreneurs who outsource and are extremely succesful. While there are massive benefits, there are also downfalls. If you plan to, find a free consulting company that has pre-screened teams.&lt;/p&gt;
+
+&lt;p&gt;Either way, using Scrum increases your chances of success in-house or out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;YOUR TEAM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Entrepreneurs read about Steve Jobs’ management style and think he was a tyrant. So they curse at their employees and tell everyone that they are “shit.” They think that’s how a company should be run and that’s how teammates should be treated. Wrong. Treat your team like shit and you’ll get shit.&lt;/p&gt;
+
+&lt;p&gt;Either way, that’s not how Steve Jobs did it. Steve Jobs empowered his team. He told them that what they’re outputting is shit because he knew that they could do better. Because they are the best in the industry. He made them feel good. He challenged them and today Apple is Apple because of that.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, I lied. Didn’t speak about the hard things and repressed whatever fear or worry we had. We were scared that someone would quit or that we would look bad if we showed our emotions in front of our investors.&lt;/p&gt;
+
+&lt;p&gt;You should always be able to tell your teammates all the fears and worries you have. Chances are, if you’re worried about something, everyone is worried about the same thing. Bring it up. Talk about it. I keep mentioning Scrum* because it encourages team members telling each other what’s bothering them and what’s impending the growth progress. This is key to not failing.&lt;/p&gt;
+
+&lt;p&gt;Not once, in any of the startups I was in, did I or other get credit for great work or for their ideas that ended up being implemented. Not once did anyone congratualte a teammate on a engineering triumph, a beautiful design or a new lead. Startups think “business is business. This isn’t a cute place to pat each other on the backs.”&lt;/p&gt;
+
+&lt;p&gt;BUT THAT’S EXACTLY WHAT A BUSINESS SHOULD BE. You should be holding each other up, helping one another and listening to the problems in the team. Because ultimately, you’re on the same mission.&lt;/p&gt;
+
+&lt;p&gt;The second the negativity flows in people become scared. They stop raising issues, telling you how they feel and how to improve the business. When that happens you start to slowly die because you’ve fell into dillusion that everything is working. Six months later, you’re on the street.&lt;/p&gt;
+
+&lt;p&gt;Empower your team. Congratulate people. Love each other. When someone screws up, tell them that, but also tell them how to improve and ask them why they think they screwed up and how to make their job easier.&lt;/p&gt;
+
+&lt;p&gt;You’re a team. Be one.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Believe it or not, I’m not affiliated with Scrum in anyway. I’m not even a Scrum Master.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When I reflect on all the stupidity I’ve personally done and the startups I’ve been involved in, I realize that the only thing I ever followed up through and executed with absolute perfection, were the things that eventually ended up killing us: not telling a soul what our idea was. Talking to lawyers. Partnering with bad teams. Hiring out of weakness. Going to too many meetings. No decision making system. Not using Scrum. Hiring people out of fear. Hiding from reality.&lt;/p&gt;
+
+&lt;p&gt;Mistakes are simple to make but hard to correct. They’re usually the first option that pops up. But as entrepreneurs we do thing because they’re hard, not because they’re easy.&lt;/p&gt;
+
+&lt;p&gt;Hard choices take a long time to get right. It takes guts, intuition, experience and lots of luck. But never settle. Never accept your situation.&lt;/p&gt;
+
+&lt;p&gt;Life can always be better.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Oct 2016 20:18:23 +0100</pubDate>
+        <link>http://getpenta.com/blog/jekyll/update/2016/10/15/how-to-destroy-your-startup.html</link>
+        <guid isPermaLink="true">http://getpenta.com/blog/jekyll/update/2016/10/15/how-to-destroy-your-startup.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
