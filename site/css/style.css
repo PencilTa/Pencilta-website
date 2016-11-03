@@ -1880,6 +1880,7 @@ box-shadow: 0px 0px 20px 0px rgba(181,181,181,0.3);
 }
 
 .hero-subscribe-wrapper form .input-group .btn-subscribe:hover:before {
+	display: none;
 	left: 81%;
 }
 
