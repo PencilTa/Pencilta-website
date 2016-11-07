@@ -3746,3 +3746,23 @@ ul.language-selection {
 	height: 300px;
 	margin-top: 200px;
 }
+
+/* Contact Us Page CSS */
+    .contact-info h1 {
+        font-size: 4em;
+        color: black;
+        margin-top: 200px;
+    }
+
+    .contact-info h2 {
+    margin-top: -32px;
+    margin-bottom: 250px;
+    color: black;
+    }
+
+    .contact-info a {
+    cursor: pointer;
+    font-family: helvetica;
+    color: rgb(9,74,143);
+    font-weight: bold;
+    }
